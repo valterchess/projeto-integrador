@@ -1,0 +1,72 @@
+.caixa{
+    background-color: white;
+}
+
+.titulo{
+    color: #807c7c!important;
+    font-weight: bold !important;
+    font-family: 'Source Sans Pro', sans-serif!important;
+}
+
+.botao{
+    border-color: white !important;
+    background-color: #3F51B5;
+    color: white !important;
+}
+
+.postagens{
+    background-color: white;
+}
+
+.text-decorator-none{
+    text-decoration: none;
+}
+
+.foto-perfil{
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    align-self: center;
+}
+
+.box{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: initial;
+}
+
+.outrabox{
+    display: flex;
+    flex-direction: row;
+}
+.cardEstilo{
+    align-items: center;
+}
+
+.btnCancelar{
+    background-color: white!important;
+    color: #f99e29!important;
+    font-weight: bold!important;
+    margin-right: 45px !important;
+}
+
+.btnPadding{
+    background-color: white!important;
+    color: #f99e29!important;
+    font-weight: bold!important;
+    margin-right: 45px !important;
+    height: 50px;
+    width: 150px;
+    
+}
+
+.alinhar-itens{
+    display: flex;
+    justify-content: space-between !important;
+}
+
+.fonte-titulos-nome{
+    font-weight: bold;
+    font-family: 'Source Sans Pro', sans-serif!important;
+    color: #505050;
+}

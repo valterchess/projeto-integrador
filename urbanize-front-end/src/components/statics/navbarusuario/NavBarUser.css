@@ -1,0 +1,23 @@
+.cursor{
+    cursor: pointer;
+    color: white;
+}
+
+.text-decorator-none{
+    text-decoration: none;
+    color: white!important;
+}
+.text-decorator-none2{
+    text-decoration: none;
+}
+.bot4{
+    text-decoration: none!important;
+    border-color: #fafafa!important;
+    background: #fafafa!important;
+    color: #f99e29!important;
+}
+
+.padding-logo {
+    margin: 0% !important;
+}
+
